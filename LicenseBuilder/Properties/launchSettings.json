@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LicenseBuilder (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LicenseBuilder (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
